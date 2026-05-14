@@ -1,3 +1,3 @@
 # Aqib-demo
 This is my first git repository.<br>
-my name is aqib waris.(aqib)
+my name is aqib waris.(aqig)
